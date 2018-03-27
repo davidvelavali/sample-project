@@ -1,0 +1,4 @@
+<p id="arr"></p>
+ <script>
+ var a = ['sumo','tata','audi'];
+ document.getElementById('arr').innerHTML= a[0];
